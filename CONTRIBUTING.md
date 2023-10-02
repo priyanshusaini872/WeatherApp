@@ -1,6 +1,4 @@
-# Contributing
-
-# Changed heading
+# Contributing Guidelines
 
 [WeatherApp](https://github.com/hubblemd/WeatherApp) is [MIT](https://github.com/DecodersCommunity/calculator/blob/main/LICENSE) licensed and accepts contributions via GitHub pull requests. This document outlines some of the conventions on development workflow, commit message formatting, contact points, and other resources to make it easier to get your contribution accepted.
 
