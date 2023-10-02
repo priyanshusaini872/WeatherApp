@@ -41,9 +41,7 @@ Please check the [contributing guide](CONTRIBUTING.md) to become a contributor.
 
 ## Contributors
 
-<a href="https://github.com/DecodersCommunity/HeroPedia/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=DecodersCommunity/WeatherApp">
-</a>
+
 
 
 ## License
