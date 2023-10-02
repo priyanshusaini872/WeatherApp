@@ -19,7 +19,7 @@ Welcome to the WeatherApp repository, your go-to source for enhancing and refini
 
 
 <p align="center">
-Do star the Decoder's repository ✨✨✨
+Do star the Decoder's HeroPedia repository ✨✨✨
 </p>
 
 <br>
@@ -39,6 +39,10 @@ We appreciate all kinds of contributions from anyone, be it finding an issue or 
 Please check the [contributing guide](CONTRIBUTING.md) to become a contributor.
 
 ## Contributors
+
+<a href="https://github.com/DecodersCommunity/WeatherApp/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=DecodersCommunity/WeatherApp" />
+</a>
 
 
 
