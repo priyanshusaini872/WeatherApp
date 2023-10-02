@@ -45,7 +45,7 @@ Please check the [contributing guide](CONTRIBUTING.md) to become a contributor.
   <img src="https://contrib.rocks/image?repo=DecodersCommunity/WeatherApp" />
 </a>
 
-Made with [contrib.rocks](https://contrib.rocks).
+
 
 ## License
 
