@@ -27,11 +27,11 @@ Do star the Decoder's repository ✨✨✨
 <p align="center">☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷</p>
 
 
-# Calculator Application
+# Weather Application
 
 A simple Weather application made using HTML, CSS. 
 
-Made with the intention of guiding beginner contributors towards open source, this respositoy is going to be maintained by: [Madhav Dwivedi ](https://github.com/hubblemd) and [Akshaya Pratap Singh ](https://github.com/akshaya-cp).
+Made with the intention of guiding beginner contributors towards open source, this respositoy is going to be maintained by: [Madhav Dwivedi ](https://github.com/hubblemd) , [Ankit Lekhak](https://github.com/AnkitVlekhak) and [Akshaya Pratap Singh ](https://github.com/akshaya-cp).
 
 ## How to Contribute?
 
@@ -44,6 +44,8 @@ Please check the [contributing guide](CONTRIBUTING.md) to become a contributor.
 <a href="https://github.com/DecodersCommunity/WeatherApp/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=DecodersCommunity/WeatherApp" />
 </a>
+
+Made with [contrib.rocks](https://contrib.rocks).
 
 ## License
 
